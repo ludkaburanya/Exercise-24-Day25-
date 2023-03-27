@@ -36,7 +36,7 @@ namespace z1
         private void spWin_Click(object sender, EventArgs e)
         {
             spWin.Text = "Windows is horizontal";
-            spWin.Text = "Windows is cascade";
+            spWin.Text = "Windows is cascad";
         }
     }
 }
